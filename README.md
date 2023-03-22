@@ -1,7 +1,15 @@
 # News App
 
 This project is done with React Native and Expo. API is used to retrieve current news from https://newsapi.org/v2
-A detailed explanation of code can be found within report/newsApp_report.pdf
+
+To install dependencies:
+* npm install
+
+To run app:
+* expo start
+
+To run tests:
+* npm run test:update-snapshots
 
 ### Demo Video:
 https://youtu.be/vOUyP2Dkir4
@@ -24,13 +32,3 @@ https://youtu.be/vOUyP2Dkir4
   <img src="https://user-images.githubusercontent.com/62084317/226902964-013f74da-ed16-4561-aa27-383298d97ba0.png" width="220">
 </kbd>
 <br><br><br>
-
-
-To install dependencies:
-* npm install
-
-To run app:
-* expo start
-
-To run tests:
-* npm run test:update-snapshots
